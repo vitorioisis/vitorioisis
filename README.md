@@ -47,8 +47,8 @@ I'm always open to discussing back-end development with Java, technology in gene
 <div align="left">
   <img src="https://img.shields.io/badge/Portuguese-Native-4CAF50?style=for-the-badge" alt="Portuguese" />
   <img src="https://img.shields.io/badge/English-Fluent-1976D2?style=for-the-badge" alt="English" />
-  <img src="https://img.shields.io/badge/German-Fluent-FFC107?style=for-the-badge" alt="German" />
-  <img src="https://img.shields.io/badge/French-Intermediate-9C27B0?style=for-the-badge" alt="French" />
+  <img src="https://img.shields.io/badge/German-Fluent-FF0000?style=for-the-badge" alt="German" />
+  <img src="https://img.shields.io/badge/French-Intermediate-FFFF00?style=for-the-badge" alt="French" />
 </div>
 
 
