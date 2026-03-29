@@ -35,7 +35,7 @@ My name is Ísis Vitório, I'm 18 years old and I'm From Brazil 🇧🇷. Here I
 
 ## 📫 How to reach me
 
-I'm always open to discussing back-end development with Java, technology in general, or exchanging experiences about IT. Feel free to connect with me! (We can even chat in English, German, or French).
+I'm always open to discussing back-end development with Java, technology in general, or exchanging experiences about IT. Feel free to connect with me! (We can chat in Portuguese, English, German, or French).
 
 <div align="left">
   <a href="https://www.linkedin.com/in/isisvitorioc" target="_blank">
