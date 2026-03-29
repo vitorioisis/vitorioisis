@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Ísis Vitório 
 
-<!--
-**vitorioisis/vitorioisis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 My name is Ísis Vitório, I'm 18 years old and I'm From Brazil 🇧🇷. Here I share some projects, studies, and experiences from my journey in the I.T field.
 
 > **Studying Computer Science**
