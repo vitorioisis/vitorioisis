@@ -2,7 +2,7 @@
 
 My name is Ísis Vitório, I'm 18 years old and I'm From Brazil 🇧🇷. Here I share some projects, studies, and experiences from my journey in the I.T field.
 
-> **Studying Computer Science**
+> **Computer Science undergraduate**
 
 <div align="left">
   <a href="https://github.com/vitorioisis?tab=repositories">
